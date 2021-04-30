@@ -1,0 +1,40 @@
+.header {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.categories {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: hold;
+    color: white;
+}
+
+#banner1 {
+    background-color: mediumspringgreen;
+}
+
+#banner2 {
+    background-color: lightcoral;
+}
+
+#banner3 {
+    background-color: skyblue;
+}
+
+.items {
+
+}
+
+.descriptions {
+
+}
+
+.pricing {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
